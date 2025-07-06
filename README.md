@@ -5,9 +5,9 @@
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&color=%230e76a8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faleksandr-maklachkov%2F)
-![Static Badge](https://img.shields.io/badge/Github-blue?style=flat-square&logo=github&color=%23171515&link=https%3A%2F%2Fgithub.com%2Frizespbya)
-
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&color=%230e76a8&link=https://www.linkedin.com/in/aleksandr-maklachkov/)](https://www.linkedin.com/in/aleksandr-maklachkov/)
+[![Static Badge](https://img.shields.io/badge/Github-blue?style=flat-square&logo=github&color=%23171515&link=https://github.com/rizespbya)](https://github.com/rizespbya)
+[![Static Badge](https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&color=%2320BEFF&link=https://ya.ru)](https://ya.ru)
 
 ## ⚡ Skills:
 - JavaScript
