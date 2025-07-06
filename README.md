@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<!--
-**rizespbya/rizespbya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! I am Alex. Nice to meet you!
 
-Here are some ideas to get you started:
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksandr-maklachkov/)](https://www.linkedin.com/in/aleksandr-maklachkov/)
+
+## ⚡ Skills:
+- JavaScript
+- TypeScript
+- Python
+- NodeJS
+- HTML
+- CSS
+- Git
+- Docker
+- Algorithms and structures
